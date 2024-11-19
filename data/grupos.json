@@ -2,7 +2,7 @@
     {
         "groupName": "Guardia de la Noche",
         "leader": "Lord Comandante Jon Snow",
-        "baseOfOperations": "El Muro",
+        "baseOfOperations": "Muro",
         "notableMembers": ["Jon Snow", "Samwell Tarly", "Eddison Tollett"],
         "allies": ["Casa Stark", "Salvajes"],
         "enemies": ["Caminantes Blancos", "Casa Bolton"]

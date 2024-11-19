@@ -12,8 +12,8 @@
             "Jon Snow"
         ],
         "historicalEnemies": [
-            "House Lannister",
-            "House Bolton"
+            "Lannister",
+            "Bolton"
         ]
     },
     {
@@ -28,8 +28,8 @@
             "Tyrion Lannister"
         ],
         "historicalEnemies": [
-            "House Stark",
-            "House Targaryen"
+            "Stark",
+            "Targaryen"
         ]
     },
     {
@@ -43,8 +43,8 @@
             "Viserys Targaryen"
         ],
         "historicalEnemies": [
-            "House Baratheon",
-            "House Lannister"
+            "Baratheon",
+            "Lannister"
         ]
     },
     {
@@ -58,8 +58,8 @@
             "Yara Greyjoy"
         ],
         "historicalEnemies": [
-            "House Stark",
-            "House Targaryen"
+            "Stark",
+            "Targaryen"
         ]
     },
     {
@@ -73,8 +73,8 @@
             "Renly Baratheon"
         ],
         "historicalEnemies": [
-            "House Targaryen",
-            "House Stark"
+            "Targaryen",
+            "Stark"
         ]
     },
     {
@@ -88,8 +88,8 @@
             "Edmure Tully"
         ],
         "historicalEnemies": [
-            "House Frey",
-            "House Lannister"
+            "Frey",
+            "Lannister"
         ]
     },
     {
@@ -103,8 +103,8 @@
             "Robin Arryn"
         ],
         "historicalEnemies": [
-            "House Lannister",
-            "House Bolton"
+            "Lannister",
+            "Bolton"
         ]
     },
     {
@@ -119,8 +119,8 @@
             "Loras Tyrell"
         ],
         "historicalEnemies": [
-            "House Greyjoy",
-            "House Stark"
+            "Greyjoy",
+            "Stark"
         ]
     },
     {
@@ -133,8 +133,8 @@
             "Ramsay Bolton"
         ],
         "historicalEnemies": [
-            "House Stark",
-            "House Targaryen"
+            "Stark",
+            "Targaryen"
         ]
     },
     {
@@ -148,8 +148,8 @@
             "Lothar Frey"
         ],
         "historicalEnemies": [
-            "House Stark",
-            "House Tully"
+            "Stark",
+            "Tully"
         ]
     }
 ]
