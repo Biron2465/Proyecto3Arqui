@@ -1,0 +1,127 @@
+[
+    {
+        "locationName": "Invernalia",
+        "ubicacion": "El Norte, Poniente",
+        "casaPrincipal": "Stark",
+        "personajesImportantes": [
+            "Jon Snow",
+            "Arya Stark",
+            "Sansa Stark",
+            "Bran Stark"
+        ],
+        "batallasRelevantes": [
+            "Batalla de Invernalia"
+        ],
+        "descripcion": "El ancestral hogar de la Casa Stark y una fortaleza importante en el Norte. Invernalia es conocida por su clima frío y su papel central en la defensa de los reinos humanos contra los Caminantes Blancos."
+    },
+    {
+        "locationName": "Desembarco del Rey",
+        "ubicacion": "Costa Este, Poniente",
+        "casaPrincipal": "Lannister (durante el reinado de Cersei)",
+        "personajesImportantes": [
+            "Cersei Lannister",
+            "Jaime Lannister",
+            "Tyrion Lannister"
+        ],
+        "batallasRelevantes": [
+            "Batalla de Aguasnegras",
+            "Batalla por Desembarco del Rey"
+        ],
+        "descripcion": "La capital de los Siete Reinos y el hogar del Trono de Hierro. Desembarco del Rey es un centro de poder y corrupción, conocido por el Gran Septo de Baelor y la Fortaleza Roja."
+    },
+    {
+        "locationName": "Muro",
+        "ubicacion": "Frontera Norte, Poniente",
+        "casaPrincipal": "Guardia de la Noche",
+        "personajesImportantes": [
+            "Jon Snow",
+            "Samwell Tarly",
+            "Eddison Tollett"
+        ],
+        "batallasRelevantes": [
+            "Batalla de Invernalia"
+        ],
+        "descripcion": "Una gigantesca estructura de hielo que separa el mundo civilizado de Poniente de las tierras salvajes más allá. Es defendido por la Guardia de la Noche, que protege a los reinos de los humanos de las amenazas del Norte."
+    },
+    {
+        "locationName": "Meereen",
+        "ubicacion": "Bahía de los Dragones, Essos",
+        "casaPrincipal": "Ninguna (gobernada temporalmente por Daenerys Targaryen)",
+        "personajesImportantes": [
+            "Daenerys Targaryen",
+            "Gusano Gris",
+            "Jorah Mormont"
+        ],
+        "batallasRelevantes": [
+            "Batalla de Meereen"
+        ],
+        "descripcion": "Una de las grandes ciudades de la Bahía de los Dragones, conocida por sus pirámides y sus gladiadores. Daenerys Targaryen conquistó y gobernó Meereen como parte de su misión de liberar a los esclavos."
+    },
+    {
+        "locationName": "Roca Casterly",
+        "ubicacion": "Costa Oeste, Poniente",
+        "casaPrincipal": "Lannister",
+        "personajesImportantes": [
+            "Tyrion Lannister",
+            "Jaime Lannister"
+        ],
+        "batallasRelevantes": [],
+        "descripcion": "El hogar ancestral de la Casa Lannister, Roca Casterly es una imponente fortaleza situada en un acantilado rocoso con vista al Mar del Ocaso. La fortaleza es famosa por su riqueza, que proviene de las minas de oro de la familia."
+    },
+    {
+        "locationName": "Dragonstone",
+        "ubicacion": "Isla Rocosa, Costa Este de Poniente",
+        "casaPrincipal": "Baratheon (anteriormente Targaryen)",
+        "personajesImportantes": [
+            "Stannis Baratheon",
+            "Melisandre",
+            "Davos Seaworth"
+        ],
+        "batallasRelevantes": [],
+        "descripcion": "Una antigua fortaleza de la Casa Targaryen, Dragonstone es conocida por su arquitectura de dragones y su proximidad a Desembarco del Rey. Stannis Baratheon hizo de Dragonstone su hogar durante su rebelión."
+    },
+    {
+        "locationName": "Braavos",
+        "ubicacion": "Costa Norte, Essos",
+        "casaPrincipal": "Ninguna (gobernada por la ciudad libre de Braavos)",
+        "personajesImportantes": [
+            "Arya Stark",
+            "Jaqen H'ghar"
+        ],
+        "batallasRelevantes": [],
+        "descripcion": "Una poderosa ciudad libre conocida por el Banco de Hierro y los Hombres Sin Rostro. Braavos es un centro de comercio y finanzas, y hogar del famoso Titan de Braavos, una gigantesca estatua que custodia su puerto."
+    },
+    {
+        "locationName": "Pyke",
+        "ubicacion": "Islas del Hierro, Poniente",
+        "casaPrincipal": "Greyjoy",
+        "personajesImportantes": [
+            "Theon Greyjoy",
+            "Yara Greyjoy"
+        ],
+        "batallasRelevantes": [
+            "Batalla de las Islas del Hierro"
+        ],
+        "descripcion": "La fortaleza ancestral de la Casa Greyjoy, situada en un conjunto de escarpadas islas rocosas. Pyke es conocido por su arquitectura austera y su población de intrépidos marineros."
+    },
+    {
+        "locationName": "Oldtown",
+        "ubicacion": "Suroeste, Poniente",
+        "casaPrincipal": "Hightower",
+        "personajesImportantes": [
+            "Samwell Tarly"
+        ],
+        "batallasRelevantes": [],
+        "descripcion": "Una de las ciudades más antiguas y culturales de Poniente, Oldtown es el hogar de la Ciudadela, donde se forman los maestres. También es famosa por el Faro de Hightower, que ilumina su puerto."
+    },
+    {
+        "locationName": "Tarth",
+        "ubicacion": "Cerca de las Tierras de Tormentas, Poniente",
+        "casaPrincipal": "Tarth",
+        "personajesImportantes": [
+            "Brienne of Tarth"
+        ],
+        "batallasRelevantes": [],
+        "descripcion": "Una isla pintoresca conocida como la Isla Zafiro debido a sus aguas brillantes. Tarth es el hogar de la noble Casa Tarth y de Brienne de Tarth, una de las guerreras más leales de Poniente."
+    }
+]

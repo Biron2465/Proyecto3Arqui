@@ -1,0 +1,625 @@
+[
+    {
+        "id": 1,
+        "name": "Jon Snow",
+        "image": "https://media.gq-magazine.co.uk/photos/62ac38f82da9f5f89888eba9/16:9/w_1920,c_limit/jon-snow-series-1200.jpeg",
+        "casa": "Stark",
+        "batallas": [
+            "Batalla de los Bastardos",
+            "Batalla de Aguasnegras"
+        ],
+        "grupos": [
+            "Guardia de la noche",
+            "Los salvajes"
+        ],
+        "lugares": [
+            "Invernalia",
+            "Muro"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Daenerys Targaryen",
+        "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/daenarys-1920.jpg?w=1200",
+        "casa": "Targaryen",
+        "batallas": [
+            "Batalla de Meereen",
+            "Batalla del Fuego"
+        ],
+        "grupos": [
+            "Dothraki",
+            "Inmaculados"
+        ],
+        "lugares": [
+            "Meereen",
+            "Desembarco del Rey"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Tyrion Lannister",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/50/Tyrion_Lannister-Peter_Dinklage.jpg",
+        "casa": "Lannister",
+        "batallas": [
+            "Batalla de Aguasnegras",
+            "Batalla por Desembarco del Rey"
+        ],
+        "grupos": [
+            "Consejo de Daenerys"
+        ],
+        "lugares": [
+            "Roca Casterly",
+            "Desembarco del Rey"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Arya Stark",
+        "image": "https://assets.teenvogue.com/photos/5cc7016cd1b87b6cfcd4d403/16:9/w_1920,c_limit/00-hero-maisie-williams.jpg",
+        "casa": "Stark",
+        "batallas": [
+            "Batalla de Invernalia"
+        ],
+        "grupos": [
+            "Hombres Sin Rostro"
+        ],
+        "lugares": [
+            "Invernalia",
+            "Braavos"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Sansa Stark",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/74/SophieTurnerasSansaStark.jpg",
+        "casa": "Stark",
+        "batallas": [
+            "Batalla de Invernalia"
+        ],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Invernalia",
+            "Desembarco del Rey"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Jaime Lannister",
+        "image": "https://hellogiggles.com/wp-content/uploads/sites/7/2017/06/18/jaime.jpg?quality=82&strip=1&resize=640%2C360",
+        "casa": "Lannister",
+        "batallas": [
+            "Batalla de Aguasnegras",
+            "Batalla por Desembarco del Rey"
+        ],
+        "grupos": [
+            "Kingsguard"
+        ],
+        "lugares": [
+            "Roca Casterly",
+            "Desembarco del Rey"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Cersei Lannister",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Cersei_Lannister_in_Black_Dress_in_Season_5.jpg",
+        "casa": "Lannister",
+        "batallas": [
+            "Batalla de Aguasnegras"
+        ],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Desembarco del Rey"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Bran Stark",
+        "image": "https://i.namu.wiki/i/6CFUSv13s60VQ7U4Jwh1dzEOp0Rn0g8OV6SPtpVYbyTrbUkfRfyVQDng81pZ_-z4dVL9gFloAs7M9Y6aLzvUxehvS2JEazkBJC4Qea4rIvKtEOxSuscKuiyIIigX8oYSwit7Y0dnGclUgHFSm_oM7Q.webp",
+        "casa": "Stark",
+        "batallas": [
+            "Batalla de Invernalia"
+        ],
+        "grupos": [
+            "Los Cuervos de Tres Ojos"
+        ],
+        "lugares": [
+            "Invernalia",
+            "Muro"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Samwell Tarly",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Samwell_Tarly-John_Bradley.jpg",
+        "casa": "Tarly",
+        "batallas": [
+            "Batalla de Invernalia"
+        ],
+        "grupos": [
+            "Guardia de la noche"
+        ],
+        "lugares": [
+            "Muro",
+            "Oldtown"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Brienne of Tarth",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Brienne_of_Tarth-Gwendoline_Christie.jpg",
+        "casa": "Tarth",
+        "batallas": [
+            "Batalla de Invernalia"
+        ],
+        "grupos": [
+            "Guardia Real"
+        ],
+        "lugares": [
+            "Tarth",
+            "Invernalia"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Theon Greyjoy",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Theon_Greyjoy-Alfie_Allen.jpg",
+        "casa": "Greyjoy",
+        "batallas": [
+            "Batalla de Invernalia"
+        ],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Pyke",
+            "Invernalia"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Yara Greyjoy",
+        "image": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2020/06/22/Pictures/_88d107e8-b497-11ea-b8d7-dab47869eae4.jpg",
+        "casa": "Greyjoy",
+        "batallas": [
+            "Batalla de las Islas del Hierro"
+        ],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Pyke"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Sandor Clegane",
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/0/0f/Thehound.jpg",
+        "casa": "Clegane",
+        "batallas": [
+            "Batalla de Aguasnegras",
+            "Batalla de Invernalia"
+        ],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Desembarco del Rey",
+            "Invernalia"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Gregor Clegane",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Gregor_Clegane-The_Mountain-Haf%C3%BE%C3%B3r_J%C3%BAl%C3%ADus_Bj%C3%B6rnsson.jpg/220px-Gregor_Clegane-The_Mountain-Haf%C3%BE%C3%B3r_J%C3%BAl%C3%ADus_Bj%C3%B6rnsson.jpg",
+        "casa": "Clegane",
+        "batallas": [
+            "Batalla de Aguasnegras"
+        ],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Desembarco del Rey"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Davos Seaworth",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/98/Davos_Seaworth_Sitting_Liam_Cunningham.jpg",
+        "casa": "Ninguna",
+        "batallas": [
+            "Batalla de Aguasnegras",
+            "Batalla de Invernalia"
+        ],
+        "grupos": [
+            "Consejo de Stannis Baratheon"
+        ],
+        "lugares": [
+            "Dragonstone",
+            "Invernalia"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Stannis Baratheon",
+        "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/stannis-1920.jpg",
+        "casa": "Baratheon",
+        "batallas": [
+            "Batalla de Aguasnegras",
+            "Batalla del Norte"
+        ],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Dragonstone",
+            "Muro"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Melisandre",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Melisandre-Carice_van_Houten.jpg/220px-Melisandre-Carice_van_Houten.jpg",
+        "casa": "Ninguna",
+        "batallas": [
+            "Batalla de Invernalia"
+        ],
+        "grupos": [
+            "Sacerdotes Rojos"
+        ],
+        "lugares": [
+            "Dragonstone",
+            "Invernalia"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Gendry",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Gendry-Joe_Dempsie.jpg",
+        "casa": "Baratheon",
+        "batallas": [
+            "Batalla de Invernalia"
+        ],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Desembarco del Rey",
+            "Invernalia"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Jorah Mormont",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfV7ZTwKsbJan0HoiORUIbzlw5XTWwcG7Ljw&s",
+        "casa": "Mormont",
+        "batallas": [
+            "Batalla de Meereen",
+            "Batalla de Invernalia"
+        ],
+        "grupos": [
+            "Consejo de Daenerys"
+        ],
+        "lugares": [
+            "Meereen",
+            "Invernalia"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Grey Worm",
+        "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s3/grey-worm-1920.jpg",
+        "casa": "Ninguna",
+        "batallas": [
+            "Batalla de Meereen",
+            "Batalla del Fuego"
+        ],
+        "grupos": [
+            "Inmaculados"
+        ],
+        "lugares": [
+            "Meereen",
+            "Desembarco del Rey"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Tormund Giantsbane",
+        "image": "/path/to/tormund-giantsbane.jpg",
+        "casa": "Ninguna",
+        "batallas": [
+            "Batalla de Invernalia"
+        ],
+        "grupos": [
+            "Los salvajes"
+        ],
+        "lugares": [
+            "Muro",
+            "Invernalia"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Eddard Stark",
+        "image": "/path/to/eddard-stark.jpg",
+        "casa": "Stark",
+        "batallas": [
+            "Rebelión de Robert"
+        ],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Invernalia",
+            "Desembarco del Rey"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Robert Baratheon",
+        "image": "/path/to/robert-baratheon.jpg",
+        "casa": "Baratheon",
+        "batallas": [
+            "Rebelión de Robert"
+        ],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Desembarco del Rey",
+            "Storm's End"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Joffrey Baratheon",
+        "image": "/path/to/joffrey-baratheon.jpg",
+        "casa": "Baratheon",
+        "batallas": [
+            "Batalla de Aguasnegras"
+        ],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Desembarco del Rey"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Margaery Tyrell",
+        "image": "/path/to/margaery-tyrell.jpg",
+        "casa": "Tyrell",
+        "batallas": [],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Desembarco del Rey",
+            "Highgarden"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Olenna Tyrell",
+        "image": "/path/to/olenna-tyrell.jpg",
+        "casa": "Tyrell",
+        "batallas": [],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Highgarden"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Petyr Baelish",
+        "image": "/path/to/petyr-baelish.jpg",
+        "casa": "Baelish",
+        "batallas": [],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Desembarco del Rey",
+            "Nido de Águilas"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Varys",
+        "image": "/path/to/varys.jpg",
+        "casa": "Ninguna",
+        "batallas": [],
+        "grupos": [
+            "Consejo de Desembarco del Rey"
+        ],
+        "lugares": [
+            "Desembarco del Rey"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Ellaria Sand",
+        "image": "/path/to/ellaria-sand.jpg",
+        "casa": "Martell",
+        "batallas": [],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Dorne"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Oberyn Martell",
+        "image": "/path/to/oberyn-martell.jpg",
+        "casa": "Martell",
+        "batallas": [
+            "Justa con Gregor Clegane"
+        ],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Dorne",
+            "Desembarco del Rey"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Missandei",
+        "image": "/path/to/missandei.jpg",
+        "casa": "Ninguna",
+        "batallas": [],
+        "grupos": [
+            "Consejo de Daenerys"
+        ],
+        "lugares": [
+            "Meereen",
+            "Desembarco del Rey"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Barristan Selmy",
+        "image": "/path/to/barristan-selmy.jpg",
+        "casa": "Selmy",
+        "batallas": [
+            "Rebelión de Robert"
+        ],
+        "grupos": [
+            "Guardia Real"
+        ],
+        "lugares": [
+            "Desembarco del Rey",
+            "Meereen"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Jaqen H'ghar",
+        "image": "/path/to/jaqen-hghar.jpg",
+        "casa": "Ninguna",
+        "batallas": [],
+        "grupos": [
+            "Hombres Sin Rostro"
+        ],
+        "lugares": [
+            "Braavos"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Euron Greyjoy",
+        "image": "/path/to/euron-greyjoy.jpg",
+        "casa": "Greyjoy",
+        "batallas": [
+            "Batalla de las Islas del Hierro"
+        ],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Pyke"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Balon Greyjoy",
+        "image": "/path/to/balon-greyjoy.jpg",
+        "casa": "Greyjoy",
+        "batallas": [
+            "Rebelión de Balon"
+        ],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Pyke"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Roose Bolton",
+        "image": "/path/to/roose-bolton.jpg",
+        "casa": "Bolton",
+        "batallas": [
+            "Boda Roja"
+        ],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Fuerte Terror",
+            "Invernalia"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Ramsay Bolton",
+        "image": "/path/to/ramsay-bolton.jpg",
+        "casa": "Bolton",
+        "batallas": [
+            "Batalla de los Bastardos"
+        ],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Fuerte Terror",
+            "Invernalia"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Benjen Stark",
+        "image": "/path/to/benjen-stark.jpg",
+        "casa": "Stark",
+        "batallas": [],
+        "grupos": [
+            "Guardia de la noche"
+        ],
+        "lugares": [
+            "Muro",
+            "Más allá del Muro"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Loras Tyrell",
+        "image": "/path/to/loras-tyrell.jpg",
+        "casa": "Tyrell",
+        "batallas": [
+            "Asedio de Dragonstone"
+        ],
+        "grupos": [
+            "Guardia Real"
+        ],
+        "lugares": [
+            "Desembarco del Rey",
+            "Highgarden"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Gilly",
+        "image": "/path/to/gilly.jpg",
+        "casa": "Ninguna",
+        "batallas": [],
+        "grupos": [
+            "Ninguno"
+        ],
+        "lugares": [
+            "Muro",
+            "Oldtown"
+        ]
+    }
+]

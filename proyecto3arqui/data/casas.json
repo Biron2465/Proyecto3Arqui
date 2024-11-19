@@ -1,0 +1,155 @@
+[
+    {
+        "houseName": "Stark",
+        "leader": "Eddard Stark",
+        "territory": "The North",
+        "motto": "Winter is Coming",
+        "notableMembers": [
+            "Eddard Stark",
+            "Robb Stark",
+            "Sansa Stark",
+            "Arya Stark",
+            "Jon Snow"
+        ],
+        "historicalEnemies": [
+            "House Lannister",
+            "House Bolton"
+        ]
+    },
+    {
+        "houseName": "Lannister",
+        "leader": "Tywin Lannister",
+        "territory": "The Westerlands",
+        "motto": "Hear Me Roar!",
+        "notableMembers": [
+            "Tywin Lannister",
+            "Cersei Lannister",
+            "Jaime Lannister",
+            "Tyrion Lannister"
+        ],
+        "historicalEnemies": [
+            "House Stark",
+            "House Targaryen"
+        ]
+    },
+    {
+        "houseName": "Targaryen",
+        "leader": "Daenerys Targaryen",
+        "territory": "The Crownlands",
+        "motto": "Fire and Blood",
+        "notableMembers": [
+            "Daenerys Targaryen",
+            "Rhaegar Targaryen",
+            "Viserys Targaryen"
+        ],
+        "historicalEnemies": [
+            "House Baratheon",
+            "House Lannister"
+        ]
+    },
+    {
+        "houseName": "Greyjoy",
+        "leader": "Balon Greyjoy",
+        "territory": "The Iron Islands",
+        "motto": "We Do Not Sow",
+        "notableMembers": [
+            "Balon Greyjoy",
+            "Theon Greyjoy",
+            "Yara Greyjoy"
+        ],
+        "historicalEnemies": [
+            "House Stark",
+            "House Targaryen"
+        ]
+    },
+    {
+        "houseName": "Baratheon",
+        "leader": "Robert Baratheon",
+        "territory": "The Stormlands",
+        "motto": "Ours is the Fury",
+        "notableMembers": [
+            "Robert Baratheon",
+            "Stannis Baratheon",
+            "Renly Baratheon"
+        ],
+        "historicalEnemies": [
+            "House Targaryen",
+            "House Stark"
+        ]
+    },
+    {
+        "houseName": "Tully",
+        "leader": "Edmure Tully",
+        "territory": "The Riverlands",
+        "motto": "Family, Duty, Honor",
+        "notableMembers": [
+            "Hoster Tully",
+            "Catelyn Stark",
+            "Edmure Tully"
+        ],
+        "historicalEnemies": [
+            "House Frey",
+            "House Lannister"
+        ]
+    },
+    {
+        "houseName": "Arryn",
+        "leader": "Robin Arryn",
+        "territory": "The Vale of Arryn",
+        "motto": "As High as Honor",
+        "notableMembers": [
+            "Jon Arryn",
+            "Lysa Arryn",
+            "Robin Arryn"
+        ],
+        "historicalEnemies": [
+            "House Lannister",
+            "House Bolton"
+        ]
+    },
+    {
+        "houseName": "Tyrell",
+        "leader": "Mace Tyrell",
+        "territory": "The Reach",
+        "motto": "Growing Strong",
+        "notableMembers": [
+            "Mace Tyrell",
+            "Olenna Tyrell",
+            "Margaery Tyrell",
+            "Loras Tyrell"
+        ],
+        "historicalEnemies": [
+            "House Greyjoy",
+            "House Stark"
+        ]
+    },
+    {
+        "houseName": "Bolton",
+        "leader": "Roose Bolton",
+        "territory": "The North",
+        "motto": "Our Blades Are Sharp",
+        "notableMembers": [
+            "Roose Bolton",
+            "Ramsay Bolton"
+        ],
+        "historicalEnemies": [
+            "House Stark",
+            "House Targaryen"
+        ]
+    },
+    {
+        "houseName": "Frey",
+        "leader": "Walder Frey",
+        "territory": "The Riverlands",
+        "motto": "We Stand Together",
+        "notableMembers": [
+            "Walder Frey",
+            "Black Walder",
+            "Lothar Frey"
+        ],
+        "historicalEnemies": [
+            "House Stark",
+            "House Tully"
+        ]
+    }
+]

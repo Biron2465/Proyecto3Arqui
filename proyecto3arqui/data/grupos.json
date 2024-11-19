@@ -1,0 +1,82 @@
+[
+    {
+        "groupName": "Guardia de la Noche",
+        "leader": "Lord Comandante Jon Snow",
+        "baseOfOperations": "El Muro",
+        "notableMembers": ["Jon Snow", "Samwell Tarly", "Eddison Tollett"],
+        "allies": ["Casa Stark", "Salvajes"],
+        "enemies": ["Caminantes Blancos", "Casa Bolton"]
+    },
+    {
+        "groupName": "Los Salvajes",
+        "leader": "Mance Rayder",
+        "baseOfOperations": "Más allá del Muro",
+        "notableMembers": ["Tormund Matagigantes", "Ygritte"],
+        "allies": ["Guardia de la Noche", "Casa Stark"],
+        "enemies": ["Caminantes Blancos", "Casa Bolton"]
+    },
+    {
+        "groupName": "Inmaculados",
+        "leader": "Gusano Gris",
+        "baseOfOperations": "Meereen",
+        "notableMembers": ["Gusano Gris"],
+        "allies": ["Daenerys Targaryen", "Dothraki"],
+        "enemies": ["Maestres de Yunkai", "Casa Lannister"]
+    },
+    {
+        "groupName": "Dothraki",
+        "leader": "Khal Drogo",
+        "baseOfOperations": "Llanuras de Essos",
+        "notableMembers": ["Khal Drogo", "Daenerys Targaryen"],
+        "allies": ["Daenerys Targaryen", "Inmaculados"],
+        "enemies": ["Maestres de Yunkai", "Maestres de Astapor"]
+    },
+    {
+        "groupName": "Consejo de Daenerys",
+        "leader": "Daenerys Targaryen",
+        "baseOfOperations": "Meereen",
+        "notableMembers": ["Tyrion Lannister", "Jorah Mormont", "Gusano Gris"],
+        "allies": ["Inmaculados", "Dothraki"],
+        "enemies": ["Casa Lannister", "Maestres de Yunkai"]
+    },
+    {
+        "groupName": "Hombres Sin Rostro",
+        "leader": "Jaqen H'ghar",
+        "baseOfOperations": "Braavos",
+        "notableMembers": ["Jaqen H'ghar", "Arya Stark"],
+        "allies": ["Ninguno"],
+        "enemies": ["Cualquiera que se convierta en objetivo"]
+    },
+    {
+        "groupName": "Kingsguard",
+        "leader": "Jaime Lannister",
+        "baseOfOperations": "Desembarco del Rey",
+        "notableMembers": ["Jaime Lannister", "Sandor Clegane"],
+        "allies": ["Casa Lannister"],
+        "enemies": ["Casa Stark", "Casa Baratheon"]
+    },
+    {
+        "groupName": "Sacerdotes Rojos",
+        "leader": "Melisandre",
+        "baseOfOperations": "Dragonstone",
+        "notableMembers": ["Melisandre", "Thoros de Myr"],
+        "allies": ["Stannis Baratheon", "Jon Snow"],
+        "enemies": ["Caminantes Blancos", "Casa Bolton"]
+    },
+    {
+        "groupName": "Consejo de Stannis Baratheon",
+        "leader": "Stannis Baratheon",
+        "baseOfOperations": "Dragonstone",
+        "notableMembers": ["Davos Seaworth", "Melisandre"],
+        "allies": ["Casa Baratheon"],
+        "enemies": ["Casa Bolton", "Casa Lannister"]
+    },
+    {
+        "groupName": "Los Cuervos de Tres Ojos",
+        "leader": "Bran Stark",
+        "baseOfOperations": "Cueva del Cuervo de Tres Ojos",
+        "notableMembers": ["Bran Stark", "Cuervo de Tres Ojos"],
+        "allies": ["Casa Stark"],
+        "enemies": ["Caminantes Blancos"]
+    }
+]
